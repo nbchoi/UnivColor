@@ -120,6 +120,7 @@ function getColorByUnivName(univ) {
   if (univ == "AJOU" || univ.includes("아주대")) return "#0072ce";
   if (univ == "YSU" || univ.includes("연세대")) return "#16407d";
   if (univ == "YU" || univ.includes("영남대")) return "#003e7d";
+  if (univ == "UNIST" || univ.includes("유니스트")) return "#001C54";
   if (univ == "INU" || univ.includes("인천대")) return "#01499a";
   if (univ == "INHA" || univ.includes("인하대")) return "#0267b9";
 
